@@ -1,4 +1,4 @@
-1. JSONSerialization.scala and JSONSerializationTesting.scala contain the code for the test Using APIs and testing: JSON Serialization.
+1. JSONSerialization.scala and JSONSerializationTesting.scala contain the code for the test Using APIs and testing: JSON Serialization. I used the package play.api.libs.json and built it in IntelliJ.
 
 2. FibonacciNumber.scala contains the code and the answer to Warmup question.
 
